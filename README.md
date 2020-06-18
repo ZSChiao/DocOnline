@@ -1,7 +1,4 @@
-# ZoieC's Doc-Online
+# ZoieC's English-Notes
 
-> An awesome project.
->
-> 记录我的学习笔记等。
->
-> 可以在线预览
+> 本仓库被用来记录我的英语学习笔记。
+> 在线预览：[]:english-note.zoiec.ml
