@@ -1,4 +1,4 @@
-#### 如何找到经济学人资源？
+# 如何找到经济学人资源？
 
 
 
@@ -10,9 +10,9 @@
 
 
 
-\# **01 | \**田间小站\****
+## 01 | 田间小站
 
-![](file://D:/AppData/Documents/Gridea/post-images/1592208361335.jpg)
+![](D:/AppData/Documents/Gridea/post-images/1592208361335.jpg)
 
 
 
@@ -40,7 +40,7 @@ https://www.tianfateng.cn/7399.html
 
 
 
-\# **02 | \**MAGAZINE\**LIB**
+##  02 | MAGAZINE LIB
 
 ![](file://D:/AppData/Documents/Gridea/post-images/1592208369666.jpg)
 
@@ -72,7 +72,7 @@ https://magazinelib.com/?s=economist
 
 
 
-\# **03 | \**emagazinePDF\****
+## 03 | emagazinePDF
 
 ![](file://D:/AppData/Documents/Gridea/post-images/1592208376356.jpg)
 
@@ -92,7 +92,7 @@ https://freemagazinepdf.com/
 
 
 
-\# **04 | \**Github 仓库\****
+## 04 | Github 仓库
 
 ![](file://D:/AppData/Documents/Gridea/post-images/1592208383502.jpg)
 
@@ -132,7 +132,7 @@ https://github.com/siger-young/the-economist-audio-with-homemade-pdf
 
 
 
-\# ***\*总结\****
+## 总结
 
 
 
@@ -143,7 +143,3 @@ https://github.com/siger-young/the-economist-audio-with-homemade-pdf
 下图是思维导图。
 
 ![](file://D:/AppData/Documents/Gridea/post-images/1592208756953.jpg)
-
-
-
-\------
