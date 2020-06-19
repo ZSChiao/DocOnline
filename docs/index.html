@@ -34,8 +34,8 @@
       coverpage: true,       <!--加一个封面图-->
       loadNavbar: true,     <!--加一个导航栏-->
       loadSidebar: true,     <!--加一个侧边栏（覆盖原始目录-在README文件根据标题展示，可以引用本地md文件）-->
-      subMaxLevel: 3,        <!--可显示三级标题-->
-      auto2top: true,          <!--目录自动收缩-->
+      subMaxLevel: 2,        <!--最多可显示二级标题-->
+      auto2top: true,          <!--打开每个文档，自动在开头-->
 
 
       <!--搜索插件---start-->
@@ -58,6 +58,23 @@
       },
       <!--分章提示插件---end-->
 
+      <!--字数统计插件---start-->
+      count:{
+        countable: true,
+        position: 'top',
+        margin: '10px',
+        float: 'left',       <!--在左边显示---end-->
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese',
+        localization: {
+            words: "",
+            minute: ""
+        },
+        isExpected: true
+      },
+      <!--字数统计插件---end-->
+
     }
   </script>
 
@@ -74,7 +91,7 @@
   <script src="//unpkg.com/prismjs/components/prism-sql.js"></script>                   <!--代码高亮---end-->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>                           <!--拷贝代码---end-->
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>         <!--分章提示---end-->
-
+  <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>         <!--字数统计---end-->
  
   <!--白天黑夜模式切换_body部分---start-->
   <script 
