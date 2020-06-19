@@ -1,7 +1,3 @@
-<img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
-
-<img width="180px" style="border-radius: 50%" bor src="https://i.loli.net/2020/06/19/5PfZmF4GSkOyBuo.png?x-oss-process=style/may">
-
 ![](https://i.loli.net/2020/06/19/5PfZmF4GSkOyBuo.png)
 
 # 英语学习笔记  
